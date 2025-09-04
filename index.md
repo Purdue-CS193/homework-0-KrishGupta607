@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Krish's First CS193 Homework
 My favorite things about CS193-
--It is taught by students.
--They are funny.
--Focuses on practical aspects.
+- It is taught by students.
+- They are funny.
+- Focuses on practical aspects.
